@@ -1,1 +1,1 @@
-This script prints 'JavaScript is amazing'
+Fundamentals of JavaScript
